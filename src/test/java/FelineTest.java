@@ -10,7 +10,6 @@ public class FelineTest {
 
     @Spy
     Feline feline;
-
     Feline feline1 = new Feline();
 
     @Test
